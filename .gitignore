@@ -1,0 +1,61 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors and IDEs
+.idea/
+.vscode/
+*.swp
+*~
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node.js
+node_modules/
+.pnpm-store/
+
+# Temporary build and document-inspection folders
+.plan_build/
+.ppt_build/
+.report_build/
+.codex-finalizer/
+*.inspect.ndjson
+*.validation.json
+
+# ROS 2 and microcontroller build outputs
+build/
+install/
+log/
+CMakeCache.txt
+CMakeFiles/
+
+# Recorded sensor data and notebooks
+*.bag
+*.bag2
+*.db3
+*.mcap
+.ipynb_checkpoints/
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# General temporary files
+*.tmp
+*.bak
