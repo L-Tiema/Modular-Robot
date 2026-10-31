@@ -3,7 +3,7 @@
 NUSRI Suzhou FYP SP18  
 **Reconfigurable Wheeled Robot with Modular Edge-AI Capabilities**
 
-面向室内环境的多移动单元可重构机器人。项目以常规差速轮式底盘完成核心交付，并在核心系统通过后扩展主动轮腿底盘。
+面向室内环境的多移动单元可拼接机器人。项目以常规差速轮式底盘完成核心交付，并在核心系统通过后扩展主动轮腿底盘。
 
 ## 项目目标
 
